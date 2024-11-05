@@ -67,6 +67,8 @@ class HomeFragment : Fragment() {
         recyclerView.adapter = CategoryAdapter(categories) { category ->
             val action = HomeFragmentDirections.actionHomeFragmentToPlacesFragment(category.places.toTypedArray())
             findNavController().navigate(action)
+
+
         }
 
         requireActivity().title = "Home"

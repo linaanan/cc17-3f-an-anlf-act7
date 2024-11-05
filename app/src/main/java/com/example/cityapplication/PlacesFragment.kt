@@ -1,4 +1,3 @@
-// PlacesFragment.kt
 package com.example.cityapplication
 
 import android.os.Bundle
@@ -9,13 +8,13 @@ import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-
 class PlacesFragment : Fragment() {
     private lateinit var places: Array<Place>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        places = PlacesFragmentArgs.fromBundle(requireArguments()).places
+        val args = PlacesFragmentArgs.fromBundle(requireArguments())
+        places = args.places
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
@@ -27,7 +26,7 @@ class PlacesFragment : Fragment() {
             findNavController().navigate(action)
         }
 
-        requireActivity().title = "List of Places"
+        requireActivity().title = "List of places"
         return view
     }
 }
