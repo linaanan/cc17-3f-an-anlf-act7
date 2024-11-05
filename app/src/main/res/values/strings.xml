@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">cityapplication</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_image">Image</string>
+    <string name="place_image">place image</string>
+
+    <!-- Cafe -->
+    <string name="cafe_a">Beyond Baguio Cafe and Restaurant</string>
+    <string name="cafe_b">Stella Cafe</string>
+    <string name="cafe_c">Choco-late de Batirol</string>
+    <string name="cafe_d">Arcas Yard</string>
+    <string name="cafe_e">Ginto Cafe</string>
+
+    <string name="cafe_details_a">Beyond Baguio Cafe offers a modern yet Cordilleran interior design and a wide al fresco dining space, providing an astonishing atmosphere for a peaceful and quiet dining experience. The food, including rice meals and pasta, is tasty but may not always be served hot. The cafes delicious coffee and blueberry cheesecake are highly recommended for satisfying cravings.</string>
+    <string name="cafe_details_b">Stella Cafe and Bar at The Cullinan Hotel offers a delightful al fresco dining experience with a relaxed ambiance. Drawing inspiration from Paris, this charming establishment is located on the ground floor of the Southern Sun Cullinan Hotel. Guests can savor South Africas finest wines while being guided by their resident sommelier in an intimate wine room. To further enhance the experience, visitors can enjoy refreshing afternoon drinks by the stunning pool terrace and indulge in delectable dishes from the seasonal menu.</string>
+    <string name="cafe_details_c">Feeling cold from the breeze? Head over to this Baguio cafe in Camp John Hay for a warm hug in a mug! This charming place features traditional Filipino hot chocolate, made with the good stuff - local cacao beans! But wait, theres more! They also have fantastic coffee and yummy local treats like bibingka and suman to complete your Filipino merienda experience.</string>
+    <string name="cafe_details_d">Arcas Yard, more than just a cafe, is a peaceful haven where you can get away from the rush of the city. Its tucked away amid the greenery on the edges of Baguio. It also offers a special concept, combining a cafe, library, and museum in one place. This hidden gem, surrounded by stunning views of the mountains, has a tranquil ambiance thats ideal for relaxing with a cup of freshly prepared coffee or herbal tea.</string>
+    <string name="cafe_details_e">Mix coffee and comedy at this Baguio cafe! Not your average joe (pun intended), its a creative space where folks can sip on local specialty coffee and tea, exchange ideas, and maybe even crack a few jokes. Plus, theyve got a whole menu of breakfast treats, pastas, and sandwiches to make your tummy happy. Its the perfect spot to unleash your inner comedian (or just appreciate some good stand-up) with a cup of brew in hand!</string>
+
+    <!-- Churches -->
+    <string name="church_a">Baguio Cathedral of Our Lady of the Atonement</string>
+    <string name="church_b">St. Joseph the Worker Parish Church</string>
+    <string name="church_c">St. Vincent Ferrer Church</string>
+    <string name="church_d">Holy Family Parish Church - Bakakeng North, Baguio City, Benguet (Diocese of Baguio)</string>
+    <string name="church_e">St. John Don Bosco Parish Church - Trancoville, Baguio City, Benguet</string>
+
+    <string name="church_details_a">The Catholic cathedral in Baguio City, Philippines is a stunning building with a distinctive pink façade and rose window. It is popular for its beauty and is one of the top tourist destinations in Baguio City.</string>
+    <string name="church_details_b">St. Joseph the Worker Parish Church is situated in the Pacdal Circle area, making it a convenient stop for families visiting nearby attractions such as Botanical Garden, Wright Park, the Mansion, and Mines View Park. It is well-organized with ample parking space and has undergone renovations including a designated cry room for families with young children. The churchs spacious interior and adjacent prayer rooms provide a serene environment for visitors to engage in quiet reflection or candle lighting.</string>
+    <string name="church_details_c">St. Vincent Ferrer Church, the earliest religious establishment in Baguio, predates the well-known Baguio Cathedral. This sacred place served as a mission station for Catholic missionaries before the Cathedrals construction. Located outside the city center, it offers a tranquil environment for devout individuals to engage in prayer and worship. Notably, this church also houses a columbarium where loved ones can find eternal rest.</string>
+    <string name="church_details_d">Holy Family Parish Church in Bakakeng North, Baguio City, Benguet is a spacious and beautifully designed Catholic church with a huge altar and high ceilings. It is located in a serene area within the community, offering a peaceful environment for prayer and reflection. The church is known for its active engagement with youth members and hosts various activities. Despite its remote location, it is easily accessible by jeepney from Baguio Plaza.</string>
+    <string name="church_details_e">St. John Don Bosco Parish Church in Trancoville, Baguio City is a serene and peaceful place to visit, especially during weekdays to avoid the crowds. If you attend Sunday mass, be sure to arrive early for a good seat. On Sundays and holidays, the church is surrounded by vendors selling religious items and souvenirs. The church offers a tranquil environment with ample parking space and is well-maintained despite needing some wall painting.</string>
+
+    <!-- Bars -->
+    <string name="bars_a">Bar Name A</string>
+    <string name="bars_b">Bar Name B</string>
+    <string name="bars_c">Bar Name C</string>
+    <string name="bars_d">Bar Name D</string>
+    <string name="bars_e">Bar Name E</string>
+
+    <string name="bars_details_a">Details about Bar A.</string>
+    <string name="bars_details_b">Details about Bar B.</string>
+    <string name="bars_details_c">Details about Bar C.</string>
+    <string name="bars_details_d">Details about Bar D.</string>
+    <string name="bars_details_e">Details about Bar E.</string>
+
+    <!-- Parks -->
+    <string name="parks_a">Park Name A</string>
+    <string name="parks_b">Park Name B</string>
+    <string name="parks_c">Park Name C</string>
+    <string name="parks_d">Park Name D</string>
+    <string name="parks_e">Park Name E</string>
+
+    <string name="parks_details_a">Details about Park A.</string>
+    <string name="parks_details_b">Details about Park B.</string>
+    <string name="parks_details_c">Details about Park C.</string>
+    <string name="parks_details_d">Details about Park D.</string>
+    <string name="parks_details_e">Details about Park E.</string>
+
+    <!-- Museums -->
+    <string name="museums_a">Museum Name A</string>
+    <string name="museums_b">Museum Name B</string>
+    <string name="museums_c">Museum Name C</string>
+    <string name="museums_d">Museum Name D</string>
+    <string name="museums_e">Museum Name E</string>
+
+    <string name="museums_details_a">Details about Museum A.</string>
+    <string name="museums_details_b">Details about Museum B.</string>
+    <string name="museums_details_c">Details about Museum C.</string>
+    <string name="museums_details_d">Details about Museum D.</string>
+    <string name="museums_details_e">Details about Museum E.</string>
+</resources>
