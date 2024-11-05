@@ -1,23 +1,31 @@
+<!-- res/layout/category_item.xml (or your category item layout file) -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:padding="16dp">
-
-    <ImageView
-        android:id="@+id/category_image"
-        android:layout_width="40dp"
-    android:layout_height="40dp"
-    android:layout_gravity="center_vertical"
-    android:contentDescription="@string/category_image" />
-
-    <TextView
-        android:id="@+id/category_name"
-        android:layout_width="0dp"
-    android:layout_height="wrap_content"
-    android:layout_weight="1"
-    android:textSize="18sp"
-    android:textColor="@android:color/black"
+    android:padding="16dp"
+    android:background="@drawable/border"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
     android:layout_marginStart="8dp"
-    android:gravity="center_vertical" />
-</LinearLayout>
+    android:layout_marginEnd="8dp">
+
+<ImageView
+android:id="@+id/category_image"
+android:layout_width="70dp"
+android:layout_height="60dp"
+android:layout_gravity="center_vertical"
+android:contentDescription="@string/category_image" />
+
+<TextView
+android:id="@+id/category_name"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:textSize="20sp"
+android:textColor="@android:color/black"
+android:layout_marginStart="8dp"
+android:gravity="center_vertical"
+android:paddingTop="10dp"
+android:layout_marginTop="3dp"/>
+    </LinearLayout>

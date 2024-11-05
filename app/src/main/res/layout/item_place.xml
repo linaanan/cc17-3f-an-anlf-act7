@@ -1,23 +1,29 @@
+<!-- res/layout/place_item.xml (or your place item layout file) -->
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
-    android:padding="16dp">
+    android:padding="16dp"
+    android:background="@drawable/border"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp">
 
-    <ImageView
-        android:id="@+id/place_image"
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:scaleType="centerCrop"
-        android:contentDescription="@string/place_image" />
+<ImageView
+android:id="@+id/place_image"
+android:layout_width="60dp"
+android:layout_height="60dp"
+android:scaleType="centerCrop"
+android:contentDescription="@string/place_image" />
 
-    <TextView
-        android:id="@+id/place_name"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:textSize="18sp"
-        android:textColor="@android:color/black"
-        android:gravity="center_vertical"
-        android:layout_marginStart="16dp" />
-</LinearLayout>
+<TextView
+android:id="@+id/place_name"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="1"
+android:textSize="15sp"
+android:textColor="@android:color/black"
+android:gravity="center_vertical"
+android:layout_marginStart="16dp" />
+    </LinearLayout>

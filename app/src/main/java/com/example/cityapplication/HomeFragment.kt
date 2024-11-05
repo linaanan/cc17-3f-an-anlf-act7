@@ -31,8 +31,38 @@ class HomeFragment : Fragment() {
                 Place(getString(R.string.church_c), R.drawable.church_c, getString(R.string.church_details_c)),
                 Place(getString(R.string.church_d), R.drawable.church_d, getString(R.string.church_details_d)),
                 Place(getString(R.string.church_e), R.drawable.church_e, getString(R.string.church_details_e))
-            ), R.drawable.church)
+            ), R.drawable.church),
+
+            // Bars Category
+            Category("Bars", listOf(
+                Place(getString(R.string.bars_a), R.drawable.sample, getString(R.string.bars_details_a)),
+                Place(getString(R.string.bars_b), R.drawable.sample, getString(R.string.bars_details_b)),
+                Place(getString(R.string.bars_c), R.drawable.sample, getString(R.string.bars_details_c)),
+                Place(getString(R.string.bars_d), R.drawable.sample, getString(R.string.bars_details_d)),
+                Place(getString(R.string.bars_e), R.drawable.sample, getString(R.string.bars_details_e))
+            ), R.drawable.sample),
+
+            // Parks Category
+            Category("Parks", listOf(
+                Place(getString(R.string.parks_a), R.drawable.sample, getString(R.string.parks_details_a)),
+                Place(getString(R.string.parks_b), R.drawable.sample, getString(R.string.parks_details_b)),
+                Place(getString(R.string.parks_c), R.drawable.sample, getString(R.string.parks_details_c)),
+                Place(getString(R.string.parks_d), R.drawable.sample, getString(R.string.parks_details_d)),
+                Place(getString(R.string.parks_e), R.drawable.sample, getString(R.string.parks_details_e))
+            ), R.drawable.sample),
+
+            // Museums Category
+            Category("Museums", listOf(
+                Place(getString(R.string.museums_a), R.drawable.sample, getString(R.string.museums_details_a)),
+                Place(getString(R.string.museums_b), R.drawable.sample, getString(R.string.museums_details_b)),
+                Place(getString(R.string.museums_c), R.drawable.sample, getString(R.string.museums_details_c)),
+                Place(getString(R.string.museums_d), R.drawable.sample, getString(R.string.museums_details_d)),
+                Place(getString(R.string.museums_e), R.drawable.sample, getString(R.string.museums_details_e))
+            ), R.drawable.sample)
         )
+
+
+
 
         recyclerView.adapter = CategoryAdapter(categories) { category ->
             val action = HomeFragmentDirections.actionHomeFragmentToPlacesFragment(category.places.toTypedArray())
