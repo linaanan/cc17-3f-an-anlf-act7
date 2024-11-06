@@ -31,30 +31,30 @@
     <string name="church_details_e">St. John Don Bosco Parish Church in Trancoville, Baguio City is a serene and peaceful place to visit, especially during weekdays to avoid the crowds. If you attend Sunday mass, be sure to arrive early for a good seat. On Sundays and holidays, the church is surrounded by vendors selling religious items and souvenirs. The church offers a tranquil environment with ample parking space and is well-maintained despite needing some wall painting.</string>
 
     <!-- Bars -->
-    <string name="bars_a">Bar Name A</string>
-    <string name="bars_b">Bar Name B</string>
-    <string name="bars_c">Bar Name C</string>
-    <string name="bars_d">Bar Name D</string>
-    <string name="bars_e">Bar Name E</string>
+    <string name="bars_a">The Ampersand</string>
+    <string name="bars_b">Basmnt</string>
+    <string name="bars_c">Spade Superclub</string>
+    <string name="bars_d">Alberto's Bar</string>
+    <string name="bars_e">Vesper Sports Bar</string>
 
-    <string name="bars_details_a">Details about Bar A.</string>
-    <string name="bars_details_b">Details about Bar B.</string>
-    <string name="bars_details_c">Details about Bar C.</string>
-    <string name="bars_details_d">Details about Bar D.</string>
-    <string name="bars_details_e">Details about Bar E.</string>
+    <string name="bars_details_a">The Ampersand is a popular nightclub located in the heart of Baguio City, within The Camp, which is known as the city's nightlife hub. It attracts a young crowd, mainly college-age young adults and young professionals. The club features vibrant dance tunes played by energetic DJs, making it an ideal spot for those looking to dance the night away. On weekends, the venue tends to get crowded, so timing your visit is crucial..</string>
+    <string name="bars_details_b">Basmnt is a pub located inside Ritz Legarda hotel in Baguio City. It offers great views of the city from its basement and is perfect for relaxing after a day of sightseeing or excitement. The pub has an extensive menu with plenty of options for food and drink, as well as some hearty meals if you're looking to refuel.</string>
+    <string name="bars_details_c">If you're in the mood to party, then Spade Superclub is the place for you! They usually have guest DJs and performers who will keep patrons entertained all night long. As for food and drinks, you're going to have a great time eating and drinking!</string>
+    <string name="bars_details_d">Alberto's Bar is a popular spot among locals in Baguio, offering a vibrant atmosphere and live music that ranges from beloved American country tunes to traditional Cordilleran melodies. The bar exudes a fantastic vibe, with talented performers and a wide selection of drinks and food. While the music can be quite loud, creating an energetic ambiance where dancing is encouraged, it may not be the best choice for those seeking a more relaxed setting for conversation.</string>
+    <string name="bars_details_e">Vesper Sports Bar is a popular spot for sports and socializing. It has a wide selection of beers and cocktails, as well as TVs for watching the game. The atmosphere is relaxed and friendly, and there's usually plenty of seating available.</string>
 
     <!-- Parks -->
-    <string name="parks_a">Park Name A</string>
-    <string name="parks_b">Park Name B</string>
-    <string name="parks_c">Park Name C</string>
-    <string name="parks_d">Park Name D</string>
-    <string name="parks_e">Park Name E</string>
+    <string name="parks_a">Burnham Park</string>
+    <string name="parks_b">Mines View Park</string>
+    <string name="parks_c">Mirador Heritage And Eco Park</string>
+    <string name="parks_d">Baguio Botanical Garden</string>
+    <string name="parks_e">Mt. Pulag National Park</string>
 
-    <string name="parks_details_a">Details about Park A.</string>
-    <string name="parks_details_b">Details about Park B.</string>
-    <string name="parks_details_c">Details about Park C.</string>
-    <string name="parks_details_d">Details about Park D.</string>
-    <string name="parks_details_e">Details about Park E.</string>
+    <string name="parks_details_a">The 'mother of all parks' in Baguio city, the summer capital of the Philippines, is a 32.84-hectare park designed by, and named after, American architect and urban planner Daniel Hudson Burnham, who also designed the original plan for Baguio City as well as Dewey Boulevard (now Roxas Boulevard) in Manila. The park has 12 main areas, the most popular of which are the Burnham Lagoon, a man-made lake with rowboats for hire; a childrens playground; a skating rink; the Rose Garden and the Picnic Grove.</string>
+    <string name="parks_details_b">DMines View Park is one of the famous tourist spots across Baguio, packed with shops selling snacks, trinkets, botanical items, and others. Picture-taking services with traditional Igorot clothes, horses, dogs, and more are also available in the lower half of the park. The park also overlooks nearby mountains, forests, and Itogon's abandoned mines.</string>
+    <string name="parks_details_c">Mirador Heritage and Eco-Park is one of the newest destinations in Baguio City. It is located where the famed Lourdes Grotto stands. The park is huge, covering the top of Mirador Hill. Some parts of the park are based on known tourist destinations in Kyoto, Japan, including the Arashiyama Bamboo Grove and the Tori Gate at the Mirador Peace Memorial. Aside from those, the park houses the Jesuit Villa and Retreat House and Cafe Inigo by Ebai.</string>
+    <string name="parks_details_d">The Baguio Botanical Garden, formerly known as Imelda Park, is a botanical garden in Baguio, Philippines, located on Leonard Wood Road between Wright Park and Teacher's Camp.[2]</string>
+    <string name="parks_details_e">The Park has a large diversity of flora and fauna, many of which are endemic to the mountain. Its wildlife includes threatened mammals such as the Philippine Brown Deer, Northern Luzon Giant Cloud Rat and the Luzon Pygmy Fruit Bat.  One can also find several orchid species some of which are possibly endemic to Mt. Pulag, and other rare flora such as the pitcher plant.</string>
 
     <!-- Museums -->
     <string name="museums_a">Museum Name A</string>
