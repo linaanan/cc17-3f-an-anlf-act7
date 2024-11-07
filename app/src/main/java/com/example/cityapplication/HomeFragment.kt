@@ -1,6 +1,7 @@
 package com.example.cityapplication
 
 import android.os.Bundle
+import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -10,6 +11,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 class HomeFragment : Fragment() {
+
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         val view = inflater.inflate(R.layout.fragment_home, container, false)
@@ -35,44 +37,41 @@ class HomeFragment : Fragment() {
 
             // Bars Category
             Category("Bars", listOf(
-                Place(getString(R.string.bars_a), R.drawable.sample, getString(R.string.bars_details_a)),
-                Place(getString(R.string.bars_b), R.drawable.sample, getString(R.string.bars_details_b)),
-                Place(getString(R.string.bars_c), R.drawable.sample, getString(R.string.bars_details_c)),
-                Place(getString(R.string.bars_d), R.drawable.sample, getString(R.string.bars_details_d)),
-                Place(getString(R.string.bars_e), R.drawable.sample, getString(R.string.bars_details_e))
-            ), R.drawable.sample),
+                Place(getString(R.string.bars_a), R.drawable.bars_a, getString(R.string.bars_details_a)),
+                Place(getString(R.string.bars_b), R.drawable.bars_b, getString(R.string.bars_details_b)),
+                Place(getString(R.string.bars_c), R.drawable.bars_c, getString(R.string.bars_details_c)),
+                Place(getString(R.string.bars_d), R.drawable.bars_d, getString(R.string.bars_details_d)),
+                Place(getString(R.string.bars_e), R.drawable.bars_e, getString(R.string.bars_details_e))
+            ), R.drawable.bar),
 
             // Parks Category
             Category("Parks", listOf(
-                Place(getString(R.string.parks_a), R.drawable.sample, getString(R.string.parks_details_a)),
-                Place(getString(R.string.parks_b), R.drawable.sample, getString(R.string.parks_details_b)),
-                Place(getString(R.string.parks_c), R.drawable.sample, getString(R.string.parks_details_c)),
-                Place(getString(R.string.parks_d), R.drawable.sample, getString(R.string.parks_details_d)),
-                Place(getString(R.string.parks_e), R.drawable.sample, getString(R.string.parks_details_e))
-            ), R.drawable.sample),
+                Place(getString(R.string.parks_a), R.drawable.park_a, getString(R.string.parks_details_a)),
+                Place(getString(R.string.parks_b), R.drawable.park_b, getString(R.string.parks_details_b)),
+                Place(getString(R.string.parks_c), R.drawable.park_c, getString(R.string.parks_details_c)),
+                Place(getString(R.string.parks_d), R.drawable.park_d, getString(R.string.parks_details_d)),
+                Place(getString(R.string.parks_e), R.drawable.park_e, getString(R.string.parks_details_e))
+            ), R.drawable.park),
 
             // Museums Category
             Category("Museums", listOf(
-                Place(getString(R.string.museums_a), R.drawable.sample, getString(R.string.museums_details_a)),
-                Place(getString(R.string.museums_b), R.drawable.sample, getString(R.string.museums_details_b)),
-                Place(getString(R.string.museums_c), R.drawable.sample, getString(R.string.museums_details_c)),
-                Place(getString(R.string.museums_d), R.drawable.sample, getString(R.string.museums_details_d)),
-                Place(getString(R.string.museums_e), R.drawable.sample, getString(R.string.museums_details_e))
-            ), R.drawable.sample)
+                Place(getString(R.string.museums_a), R.drawable.museums_a, getString(R.string.museums_details_a)),
+                Place(getString(R.string.museums_b), R.drawable.museums_b, getString(R.string.museums_details_b)),
+                Place(getString(R.string.museums_c), R.drawable.museums_c, getString(R.string.museums_details_c)),
+                Place(getString(R.string.museums_d), R.drawable.museums_d, getString(R.string.museums_details_d)),
+                Place(getString(R.string.museums_e), R.drawable.museums_e, getString(R.string.museums_details_e))
+            ), R.drawable.museum)
         )
 
-
-
-
         recyclerView.adapter = CategoryAdapter(categories) { category ->
+
+
             val action = HomeFragmentDirections.actionHomeFragmentToPlacesFragment(category.places.toTypedArray())
             findNavController().navigate(action)
-
-
         }
 
         requireActivity().title = "Home"
-
         return view
     }
+
 }
