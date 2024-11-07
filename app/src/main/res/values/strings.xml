@@ -34,14 +34,14 @@
     <string name="bars_a">The Ampersand</string>
     <string name="bars_b">Basmnt</string>
     <string name="bars_c">Spade Superclub</string>
-    <string name="bars_d">Alberto's Bar</string>
+    <string name="bars_d">Albertos Bar</string>
     <string name="bars_e">Vesper Sports Bar</string>
 
-    <string name="bars_details_a">The Ampersand is a popular nightclub located in the heart of Baguio City, within The Camp, which is known as the city's nightlife hub. It attracts a young crowd, mainly college-age young adults and young professionals. The club features vibrant dance tunes played by energetic DJs, making it an ideal spot for those looking to dance the night away. On weekends, the venue tends to get crowded, so timing your visit is crucial..</string>
-    <string name="bars_details_b">Basmnt is a pub located inside Ritz Legarda hotel in Baguio City. It offers great views of the city from its basement and is perfect for relaxing after a day of sightseeing or excitement. The pub has an extensive menu with plenty of options for food and drink, as well as some hearty meals if you're looking to refuel.</string>
-    <string name="bars_details_c">If you're in the mood to party, then Spade Superclub is the place for you! They usually have guest DJs and performers who will keep patrons entertained all night long. As for food and drinks, you're going to have a great time eating and drinking!</string>
-    <string name="bars_details_d">Alberto's Bar is a popular spot among locals in Baguio, offering a vibrant atmosphere and live music that ranges from beloved American country tunes to traditional Cordilleran melodies. The bar exudes a fantastic vibe, with talented performers and a wide selection of drinks and food. While the music can be quite loud, creating an energetic ambiance where dancing is encouraged, it may not be the best choice for those seeking a more relaxed setting for conversation.</string>
-    <string name="bars_details_e">Vesper Sports Bar is a popular spot for sports and socializing. It has a wide selection of beers and cocktails, as well as TVs for watching the game. The atmosphere is relaxed and friendly, and there's usually plenty of seating available.</string>
+    <string name="bars_details_a">The Ampersand is a popular nightclub located in the heart of Baguio City, within The Camp, which is known as the city\'s nightlife hub. It attracts a young crowd, mainly college-age young adults and young professionals. The club features vibrant dance tunes played by energetic DJs, making it an ideal spot for those looking to dance the night away. On weekends, the venue tends to get crowded, so timing your visit is crucial..</string>
+    <string name="bars_details_b">Basmnt is a pub located inside Ritz Legarda hotel in Baguio City. It offers great views of the city from its basement and is perfect for relaxing after a day of sightseeing or excitement. The pub has an extensive menu with plenty of options for food and drink, as well as some hearty meals if youre looking to refuel.</string>
+    <string name="bars_details_c">If you\'re in the mood to party, then Spade Superclub is the place for you! They usually have guest DJs and performers who will keep patrons entertained all night long. As for food and drinks, youre going to have a great time eating and drinking!</string>
+    <string name="bars_details_d">Albertos Bar is a popular spot among locals in Baguio, offering a vibrant atmosphere and live music that ranges from beloved American country tunes to traditional Cordilleran melodies. The bar exudes a fantastic vibe, with talented performers and a wide selection of drinks and food. While the music can be quite loud, creating an energetic ambiance where dancing is encouraged, it may not be the best choice for those seeking a more relaxed setting for conversation.</string>
+    <string name="bars_details_e">Vesper Sports Bar is a popular spot for sports and socializing. It has a wide selection of beers and cocktails, as well as TVs for watching the game. The atmosphere is relaxed and friendly, and theres usually plenty of seating available.</string>
 
     <!-- Parks -->
     <string name="parks_a">Burnham Park</string>
@@ -50,22 +50,25 @@
     <string name="parks_d">Baguio Botanical Garden</string>
     <string name="parks_e">Mt. Pulag National Park</string>
 
-    <string name="parks_details_a">The 'mother of all parks' in Baguio city, the summer capital of the Philippines, is a 32.84-hectare park designed by, and named after, American architect and urban planner Daniel Hudson Burnham, who also designed the original plan for Baguio City as well as Dewey Boulevard (now Roxas Boulevard) in Manila. The park has 12 main areas, the most popular of which are the Burnham Lagoon, a man-made lake with rowboats for hire; a childrens playground; a skating rink; the Rose Garden and the Picnic Grove.</string>
-    <string name="parks_details_b">DMines View Park is one of the famous tourist spots across Baguio, packed with shops selling snacks, trinkets, botanical items, and others. Picture-taking services with traditional Igorot clothes, horses, dogs, and more are also available in the lower half of the park. The park also overlooks nearby mountains, forests, and Itogon's abandoned mines.</string>
+    <string name="parks_details_a">The mother of all parks in Baguio city, the summer capital of the Philippines, is a 32.84-hectare park designed by, and named after, American architect and urban planner Daniel Hudson Burnham, who also designed the original plan for Baguio City as well as Dewey Boulevard (now Roxas Boulevard) in Manila. The park has 12 main areas, the most popular of which are the Burnham Lagoon, a man-made lake with rowboats for hire; a childrens playground; a skating rink; the Rose Garden and the Picnic Grove.</string>
+    <string name="parks_details_b">Mines View Park is one of the famous tourist spots across Baguio, packed with shops selling snacks, trinkets, botanical items, and others. Picture-taking services with traditional Igorot clothes, horses, dogs, and more are also available in the lower half of the park. The park also overlooks nearby mountains, forests, and Itogons abandoned mines.</string>
     <string name="parks_details_c">Mirador Heritage and Eco-Park is one of the newest destinations in Baguio City. It is located where the famed Lourdes Grotto stands. The park is huge, covering the top of Mirador Hill. Some parts of the park are based on known tourist destinations in Kyoto, Japan, including the Arashiyama Bamboo Grove and the Tori Gate at the Mirador Peace Memorial. Aside from those, the park houses the Jesuit Villa and Retreat House and Cafe Inigo by Ebai.</string>
-    <string name="parks_details_d">The Baguio Botanical Garden, formerly known as Imelda Park, is a botanical garden in Baguio, Philippines, located on Leonard Wood Road between Wright Park and Teacher's Camp.[2]</string>
+    <string name="parks_details_d">Baguio Botanical Garden is a picturesque park located in Baguio City, Philippines. It offers visitors a peaceful escape with its lush greenery, colorful flowers, and scenic landscapes. The garden features a variety of plants, both native and ornamental, as well as quaint pathways, bridges, and native-style huts. Its also known for its cultural and artistic elements, including sculptures and traditional Igorot huts, providing a glimpse into the indigenous heritage of the region. Ideal for nature lovers and families, the garden is a serene space for leisurely walks, picnics, and photography.</string>
     <string name="parks_details_e">The Park has a large diversity of flora and fauna, many of which are endemic to the mountain. Its wildlife includes threatened mammals such as the Philippine Brown Deer, Northern Luzon Giant Cloud Rat and the Luzon Pygmy Fruit Bat.  One can also find several orchid species some of which are possibly endemic to Mt. Pulag, and other rare flora such as the pitcher plant.</string>
 
     <!-- Museums -->
-    <string name="museums_a">Museum Name A</string>
-    <string name="museums_b">Museum Name B</string>
-    <string name="museums_c">Museum Name C</string>
-    <string name="museums_d">Museum Name D</string>
-    <string name="museums_e">Museum Name E</string>
+    <string name="museums_a">BenCab Museum</string>
+    <string name="museums_b">Museo Kordilyera</string>
+    <string name="museums_c">Baguio Museum</string>
+    <string name="museums_d">Bell House Library Museum</string>
+    <string name="museums_e">Tam-Awan Village</string>
 
-    <string name="museums_details_a">Details about Museum A.</string>
-    <string name="museums_details_b">Details about Museum B.</string>
-    <string name="museums_details_c">Details about Museum C.</string>
-    <string name="museums_details_d">Details about Museum D.</string>
-    <string name="museums_details_e">Details about Museum E.</string>
+    <string name="museums_details_a">A visit to Baguio would not be complete without a stop at the BenCab Museum located in Tuba, Benguet. It is owned and named after National Artist Benedicto Cabrera, whose mastery ranges from painting to printmaking and beyond.            Inside the museum, you can marvel at Cabrera’s works plus the masterpieces of other renowned Filipino artists. His collection of ethnic wood carvings from the Ifugao tribe are also on display. BenCab also has a refreshing garden and an in-house restaurant, Cafe Sabel, where guests can relax or enjoy a quick meal.</string>
+    <string name="museums_details_b">For those who want to dive deeper into the history and culture of the Cordillera Region, add Museo Kordilyera to your Baguio museum-hopping list. The ethnographic museum features a range of artifacts that will give visitors a deeper understanding of the indigenous tribes who live in Northern Luzon. It includes items from the Kalingas, Bontocs, and Ifugaos, among others.
+Museo Kordilyera is located inside the University of the Philippines Baguio, has three floors full of artwork and artifacts, as well as a cafe and a small souvenir shop open to all guests. </string>
+    <string name="museums_details_c">Baguio Museum is another gallery dedicated to the preservation of the city’s cultural heritage. However, art buffs will still have a great time here. For starters, the museum’s architectural design is inspired by the traditional Ifugao homes, evident in the predominant use of wood and stone on the facade alone. Inside, you’ll find intricate dioramas, tribal artifacts, and other items showcasing the life of the various indigenous groups that call the Cordillera Region home.
+Baguio Museum also hosts exhibitions and shows. Best to follow their social media page for any upcoming events.</string>
+    <string name="museums_details_d">The Bell House Library Museum may not be your usual museum in Baguio, but it’s still worth checking out. The unique attraction inside Camp John Hay was designed by General J. Franklin Bell and was used as a rest house by the Commanding General of the Philippines. Art and architecture aficionados will be impressed by its American-style design and its cozy interiors.
+Near the Bell House, you can also check out the Bell Amphitheater and the Cemetery of Negativity, both of which are part of Camp John Hay’s historical core.</string>
+    <string name="museums_details_e">Tam-Awan Village is a one-of-a-kind creative community located in Pinsao Proper. It aims to promote the rich heritage of the Cordilleran people and, at the same time, showcase the works of local artists.         Some of Tam-Awans most noticeable features include its collection of Kalinga and Ifugao huts, endless display of Cordillera artistry, and the cozy Tam-Awan Village Cafe. They also have a new attraction in the works called the Igorot Stone Kingdom.</string>
 </resources>
